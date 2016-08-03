@@ -1,2 +1,2 @@
 # Viewskills
-rotatelogo:a site main page with rotating logo
+rotatelogo: a site main page with rotating logo
